@@ -1,0 +1,36 @@
+{
+  "city": "成都",
+  "run_1": {
+    "elapsed_sec": 1537.5,
+    "hit_rate": 0.0,
+    "api_fallback_count": 1,
+    "vector_hit_count": 0,
+    "vector_miss_count": 1,
+    "es_upsert_count_logs": 1,
+    "plan_days": 1,
+    "first_day_attractions": [
+      "锦里",
+      "春熙路美食街",
+      "宽窄巷子夜市"
+    ]
+  },
+  "run_2": {
+    "elapsed_sec": 88.48,
+    "hit_rate": 0.0,
+    "api_fallback_count": 1,
+    "vector_hit_count": 0,
+    "vector_miss_count": 1,
+    "es_upsert_count_logs": 1,
+    "plan_days": 1,
+    "first_day_attractions": [
+      "悦百味·品质川菜(大魔方店)",
+      "许家菜樽宴(大魔方店)"
+    ]
+  },
+  "compare": {
+    "hit_rate_delta": 0.0,
+    "api_fallback_delta": 0,
+    "vector_hit_delta": 0,
+    "vector_miss_delta": 0
+  }
+}

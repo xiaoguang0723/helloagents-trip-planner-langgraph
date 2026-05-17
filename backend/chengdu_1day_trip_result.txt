@@ -1,0 +1,137 @@
+{
+  "request": {
+    "city": "成都",
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-10",
+    "travel_days": 1,
+    "transportation": "公共交通",
+    "accommodation": "经济型酒店",
+    "preferences": [
+      "美食",
+      "休闲"
+    ],
+    "free_text_input": ""
+  },
+  "plan": {
+    "city": "成都",
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-10",
+    "days": [
+      {
+        "date": "2026-05-10",
+        "day_index": 0,
+        "description": "探索成都的美食与文化，安排包括宽窄巷子、都江堰和青城山的行程。",
+        "transportation": "公共交通",
+        "accommodation": "经济型酒店",
+        "hotel": {
+          "name": "汉庭酒店(成都宽窄巷子地铁站店)",
+          "address": "青石桥北街44号米瑞广场八楼",
+          "location": {
+            "longitude": 103.7494,
+            "latitude": 31.7842
+          },
+          "price_range": "300-500元",
+          "rating": "4.5",
+          "distance": "距离景点2公里",
+          "type": "经济型酒店",
+          "estimated_cost": 0
+        },
+        "attractions": [
+          {
+            "name": "宽窄巷子",
+            "address": "金河路口宽窄巷子(宽窄巷子地铁站B口步行60米)",
+            "location": {
+              "longitude": 103.7494,
+              "latitude": 31.7842
+            },
+            "visit_duration": 120,
+            "description": "成都最著名的景点之一，集合了各种美食和文化体验。",
+            "category": "景点",
+            "rating": 4.5,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          },
+          {
+            "name": "都江堰",
+            "address": "公园路",
+            "location": {
+              "longitude": 103.7494,
+              "latitude": 31.7842
+            },
+            "visit_duration": 120,
+            "description": "成都著名的古代水利工程，感受古代文明。",
+            "category": "景点",
+            "rating": 4.5,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          },
+          {
+            "name": "青城山",
+            "address": "青城山镇青城山路168号",
+            "location": {
+              "longitude": 103.7494,
+              "latitude": 31.7842
+            },
+            "visit_duration": 120,
+            "description": "成都不动产的发源地，感受自然与人文的结合。",
+            "category": "景点",
+            "rating": 4.5,
+            "photos": [],
+            "poi_id": "",
+            "image_url": null,
+            "ticket_price": 0
+          }
+        ],
+        "meals": [
+          {
+            "type": "早餐",
+            "name": "老成都侯记豆汤饭",
+            "address": "宽窄巷子地铁站B口附近",
+            "location": null,
+            "description": "地道的成都豆汤饭，推荐尝试！",
+            "estimated_cost": 30
+          },
+          {
+            "type": "午餐",
+            "name": "宽窄巷子火锅店",
+            "address": "宽窄巷子地铁站附近",
+            "location": null,
+            "description": "品尝地道的宽窄巷子火锅，体验成都的麻辣鲜香。",
+            "estimated_cost": 50
+          },
+          {
+            "type": "晚餐",
+            "name": "青城山餐厅",
+            "address": "青城山脚下",
+            "location": null,
+            "description": "在青城山脚下享用美食，感受自然的美景。",
+            "estimated_cost": 80
+          }
+        ]
+      }
+    ],
+    "weather_info": [
+      {
+        "date": "2026-05-10",
+        "day_weather": "多云",
+        "night_weather": "多云",
+        "day_temp": 25,
+        "night_temp": 15,
+        "wind_direction": "",
+        "wind_power": ""
+      }
+    ],
+    "overall_suggestions": "今天是一天轻松愉快的旅行日，建议您多休息，适当安排时间，确保充足的休息以应对愉快的行程。",
+    "budget": {
+      "total_attractions": 300,
+      "total_hotels": 1200,
+      "total_meals": 240,
+      "total_transportation": 100,
+      "total": 0
+    }
+  }
+}

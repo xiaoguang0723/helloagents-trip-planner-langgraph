@@ -1,0 +1,232 @@
+﻿{
+    "success":  true,
+    "message":  "æ\u0085è¡è®¡åçææå",
+    "data":  {
+                 "city":  "??",
+                 "start_date":  "2025-06-01",
+                 "end_date":  "2025-06-03",
+                 "days":  [
+                              {
+                                  "date":  "2025-06-01",
+                                  "day_index":  0,
+                                  "description":  "ç¬¬1å¤©è¡ç¨",
+                                  "transportation":  "????",
+                                  "accommodation":  "?????",
+                                  "hotel":  null,
+                                  "attractions":  [
+                                                      {
+                                                          "name":  "??æ¯ç¹1",
+                                                          "address":  "??å¸",
+                                                          "location":  {
+                                                                           "longitude":  116.4,
+                                                                           "latitude":  39.9
+                                                                       },
+                                                          "visit_duration":  120,
+                                                          "description":  "è¿æ¯??çèåæ¯ç¹",
+                                                          "category":  "æ¯ç¹",
+                                                          "rating":  null,
+                                                          "photos":  [
+
+                                                                     ],
+                                                          "poi_id":  "",
+                                                          "image_url":  null,
+                                                          "ticket_price":  0
+                                                      },
+                                                      {
+                                                          "name":  "??æ¯ç¹2",
+                                                          "address":  "??å¸",
+                                                          "location":  {
+                                                                           "longitude":  116.405,
+                                                                           "latitude":  39.905
+                                                                       },
+                                                          "visit_duration":  120,
+                                                          "description":  "è¿æ¯??çèåæ¯ç¹",
+                                                          "category":  "æ¯ç¹",
+                                                          "rating":  null,
+                                                          "photos":  [
+
+                                                                     ],
+                                                          "poi_id":  "",
+                                                          "image_url":  null,
+                                                          "ticket_price":  0
+                                                      }
+                                                  ],
+                                  "meals":  [
+                                                {
+                                                    "type":  "breakfast",
+                                                    "name":  "ç¬¬1å¤©æ©é¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "å½å°ç¹è²æ©é¤",
+                                                    "estimated_cost":  0
+                                                },
+                                                {
+                                                    "type":  "lunch",
+                                                    "name":  "ç¬¬1å¤©åé¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "åé¤æ¨è",
+                                                    "estimated_cost":  0
+                                                },
+                                                {
+                                                    "type":  "dinner",
+                                                    "name":  "ç¬¬1å¤©æé¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "æé¤æ¨è",
+                                                    "estimated_cost":  0
+                                                }
+                                            ]
+                              },
+                              {
+                                  "date":  "2025-06-02",
+                                  "day_index":  1,
+                                  "description":  "ç¬¬2å¤©è¡ç¨",
+                                  "transportation":  "????",
+                                  "accommodation":  "?????",
+                                  "hotel":  null,
+                                  "attractions":  [
+                                                      {
+                                                          "name":  "??æ¯ç¹1",
+                                                          "address":  "??å¸",
+                                                          "location":  {
+                                                                           "longitude":  116.41000000000001,
+                                                                           "latitude":  39.91
+                                                                       },
+                                                          "visit_duration":  120,
+                                                          "description":  "è¿æ¯??çèåæ¯ç¹",
+                                                          "category":  "æ¯ç¹",
+                                                          "rating":  null,
+                                                          "photos":  [
+
+                                                                     ],
+                                                          "poi_id":  "",
+                                                          "image_url":  null,
+                                                          "ticket_price":  0
+                                                      },
+                                                      {
+                                                          "name":  "??æ¯ç¹2",
+                                                          "address":  "??å¸",
+                                                          "location":  {
+                                                                           "longitude":  116.415,
+                                                                           "latitude":  39.915
+                                                                       },
+                                                          "visit_duration":  120,
+                                                          "description":  "è¿æ¯??çèåæ¯ç¹",
+                                                          "category":  "æ¯ç¹",
+                                                          "rating":  null,
+                                                          "photos":  [
+
+                                                                     ],
+                                                          "poi_id":  "",
+                                                          "image_url":  null,
+                                                          "ticket_price":  0
+                                                      }
+                                                  ],
+                                  "meals":  [
+                                                {
+                                                    "type":  "breakfast",
+                                                    "name":  "ç¬¬2å¤©æ©é¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "å½å°ç¹è²æ©é¤",
+                                                    "estimated_cost":  0
+                                                },
+                                                {
+                                                    "type":  "lunch",
+                                                    "name":  "ç¬¬2å¤©åé¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "åé¤æ¨è",
+                                                    "estimated_cost":  0
+                                                },
+                                                {
+                                                    "type":  "dinner",
+                                                    "name":  "ç¬¬2å¤©æé¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "æé¤æ¨è",
+                                                    "estimated_cost":  0
+                                                }
+                                            ]
+                              },
+                              {
+                                  "date":  "2025-06-03",
+                                  "day_index":  2,
+                                  "description":  "ç¬¬3å¤©è¡ç¨",
+                                  "transportation":  "????",
+                                  "accommodation":  "?????",
+                                  "hotel":  null,
+                                  "attractions":  [
+                                                      {
+                                                          "name":  "??æ¯ç¹1",
+                                                          "address":  "??å¸",
+                                                          "location":  {
+                                                                           "longitude":  116.42,
+                                                                           "latitude":  39.92
+                                                                       },
+                                                          "visit_duration":  120,
+                                                          "description":  "è¿æ¯??çèåæ¯ç¹",
+                                                          "category":  "æ¯ç¹",
+                                                          "rating":  null,
+                                                          "photos":  [
+
+                                                                     ],
+                                                          "poi_id":  "",
+                                                          "image_url":  null,
+                                                          "ticket_price":  0
+                                                      },
+                                                      {
+                                                          "name":  "??æ¯ç¹2",
+                                                          "address":  "??å¸",
+                                                          "location":  {
+                                                                           "longitude":  116.425,
+                                                                           "latitude":  39.925000000000004
+                                                                       },
+                                                          "visit_duration":  120,
+                                                          "description":  "è¿æ¯??çèåæ¯ç¹",
+                                                          "category":  "æ¯ç¹",
+                                                          "rating":  null,
+                                                          "photos":  [
+
+                                                                     ],
+                                                          "poi_id":  "",
+                                                          "image_url":  null,
+                                                          "ticket_price":  0
+                                                      }
+                                                  ],
+                                  "meals":  [
+                                                {
+                                                    "type":  "breakfast",
+                                                    "name":  "ç¬¬3å¤©æ©é¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "å½å°ç¹è²æ©é¤",
+                                                    "estimated_cost":  0
+                                                },
+                                                {
+                                                    "type":  "lunch",
+                                                    "name":  "ç¬¬3å¤©åé¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "åé¤æ¨è",
+                                                    "estimated_cost":  0
+                                                },
+                                                {
+                                                    "type":  "dinner",
+                                                    "name":  "ç¬¬3å¤©æé¤",
+                                                    "address":  null,
+                                                    "location":  null,
+                                                    "description":  "æé¤æ¨è",
+                                                    "estimated_cost":  0
+                                                }
+                                            ]
+                              }
+                          ],
+                 "weather_info":  [
+
+                                  ],
+                 "overall_suggestions":  "è¿æ¯ä¸ºæ¨è§åç??3æ¥æ¸¸è¡ç¨,å»ºè®®æåæ¥çåæ¯ç¹çå¼æ¾æ¶é´ã",
+                 "budget":  null
+             }
+}
